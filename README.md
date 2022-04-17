@@ -27,15 +27,16 @@ Analysis of Kickstarter Campaigns
   ##**Results**
   
   ###Conclusions
+    
     ####**Outcomes Based on Launch Date**
       -May and June are popular months to launch a successful kickstarter.
       -The least amount of successful kickstarters are launched in the months of November and December.
     ####**Outcomes Based on Goals**
-      -Kickstarter goals that are less than $5000 have the highest success         rate.
-      -Kickstarters that are equal or greater than $45000 have the least           successful percentage.
+      -Kickstarter goals that are less than $5000 have the highest success rate.
+      -Kickstarters that are equal or greater than $45000 have the least successful percentage.
     ####**Limitations of Dataset**
-      -The sample size of projects great or equal than $15000 is very small       which limits the usefulness of said range.
+      -The sample size of projects great or equal than $15000 is very small which limits the usefulness of said range.
     ####**Other Possible Tables or Graphs**
       -We can do the same outcomes based on launch date and outcomes based on goals for specific countries of interest to see how successful one is compared to           another and the goals that they set for themselves.
-      -We can make a bar chart comparing the amount of successful and failed       campaigns amongst countries.
+      -We can make a bar chart comparing the amount of successful and failed campaigns amongst countries.
       

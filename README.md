@@ -11,7 +11,7 @@ Analysis of Kickstarter Campaigns
  
   In this analysis I created a pivot table for all years under the theater category broken down by months and whether they were successful, failed, or canceled. I also generated a line chart found below that illustrates the number of said outcomes based on the respective launch date of each campaign.
  
- ![This is an image](https://github.com/edyu23/kickstarter_analysis/blob/19dfaf361c5e3bea30a46da521402eace838fdce/Resources/Outcomes_vs_goals.png)
+![this is an image](https://github.com/edyu23/kickstarter_analysis/blob/19dfaf361c5e3bea30a46da521402eace838fdce/Resources/Theater_Outcomes_vs_Launch.png)
  
    I didn't run into too many challenges but I could see some issues getting the pivot table to populate properly because of a couple extra steps in the filter to visualize what we are looking for.
  
@@ -20,7 +20,7 @@ Analysis of Kickstarter Campaigns
   In this analysis we made a worksheet with eight columns with a focus on theater. In one column we look at goals broken down with into twelve rows of cells with a range of under $1000 to over $50,000. We use the `COUNTIFS` function to pull the number of successful, failed, and canceled projects from our kickstarter worksheet. We then we the `SUM` function to tally up the total successful, failed, and canceled projects. This information taken to see the percentage of successful, failed, and canceled campaigns. 
   We utilize the worksheet that we made and generated a line chart illustrating the percentages of outcomes based on the goal amount as seen below.
   
-![this is an image](https://github.com/edyu23/kickstarter_analysis/blob/19dfaf361c5e3bea30a46da521402eace838fdce/Resources/Theater_Outcomes_vs_Launch.png)
+  ![This is an image](https://github.com/edyu23/kickstarter_analysis/blob/19dfaf361c5e3bea30a46da521402eace838fdce/Resources/Outcomes_vs_goals.png) 
   
    I had some trouble getting used to the `COUNTIFS` function and getting the syntax down to populate the correct data.
   
